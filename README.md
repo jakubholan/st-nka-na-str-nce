@@ -1,0 +1,1 @@
+# st-nka-na-str-nce
