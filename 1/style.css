@@ -1,0 +1,32 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+    .b1{
+        background-color: blueviolet;
+      text-align: center;
+      border: solid #031c0c;
+    }
+    .b2{
+        background-color: green;
+      text-align: center;
+      border: solid #031c0c;
+    }
+    .b3{
+        background-color: yellow;
+      padding-bottom: 50px;
+      padding-top: 50px;
+      background-color: #c17171;
+      border: solid #031c0c;
+      text-align: center;
+      
+    }
+    .b4{
+        background-color: lightsalmon;
+      padding-bottom: 50px;
+      padding-top: 50px;
+      border: dashed black;
+      text-align: center;
+    }
+    
+  
